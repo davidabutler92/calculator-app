@@ -2,7 +2,7 @@
 ## Goal 
 
 #### The goal of this project is to use everything learned from the previous week and show knowledge of javascipt by making a calculator app
-#### By _**{David Butler, }**_
+#### By _**{David Butler,Drew Lockhart }**_
 
 ## Description
 #### Write a program where users have access to a functioning calculator.
@@ -19,6 +19,7 @@
 
 ## Support and Contact Details
 * davidabutler92@yahoo.com
+* drewmlockhart@gmail.com
 
 ## Technologies Used 
 #### HTML
