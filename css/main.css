@@ -1,15 +1,16 @@
-body {
-  padding: 50px
+.margin-top {
+  margin-top: 20px;
 }
-#output1 {
-  width: 30%;
-}
-#output2 {
-  width: 30%;
-}
-#output3 {
-  width: 30%;
-}
-#output4 {
-  width: 30%
-}
+
+.jumbotron {
+  background-image: url("https://bit.ly/3gUcGER");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+ }
+
+ .container {
+   margin-top: 8%;
+ }
+
