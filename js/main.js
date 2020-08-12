@@ -1,22 +1,26 @@
-function add(number1, number2) {
+const add = function(number1, number2) {
   return number1 + number2;
 }
 
-function subtract(number1, number2) {
+const subtract = function(number1, number2) {
   return number1 - number2;
 }
 
-function multiply(number1, number2) {
+const multiply = function(number1, number2) {
   return number1 * number2;
 }
 
-function division(number1, number2) {
+const division = function(number1, number2) {
     return number1 / number2
 }
 
-
-// const number1 = parseInt(prompt("Enter a number:"));
-// const number2 = parseInt(prompt("Enter another number"));
+$(document).ready(function() {
+  $("form#add").submit(funtion(event) {
+    event.preventDefault();
+    const number1 = parseInt($("input#add1").val());
+    const number2 = parseInt
+  });
+});
 
 
 
